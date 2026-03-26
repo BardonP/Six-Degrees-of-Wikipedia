@@ -1,4 +1,4 @@
-# Six-Degrees-of-Wikipedia
+# Six Degrees of Wikipedia
 
 The Six Degrees of Wikipedia research project aims to emulate six degrees of separation across a subset of Wikipedia data. Six degrees of separation is a phenomenon where any two persons can be connected through six intermediaries. It was first represented by Stanley Milgram's Small World Experiment in 1967. The average intermediaries between Americans trying to send a package to a target across an area of the Eastern United States was 6. Since this experiment, six degrees of separation (or less) can be concluded online. Markedly by an experiment using email in 2001 by Duncan Watts and an experiment using Facebook friendships by Backstrom et al. in 2011.
 
