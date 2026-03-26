@@ -1,2 +1,6 @@
 # Six-Degrees-of-Wikipedia
-Contains Wikipedia data set, source code for parsing XML, and network graph of the articles.
+
+The Six Degrees of Wikipedia research project aims to emulate six degrees of separation across a subset of Wikipedia data. Six degrees of separation is a phenomenon where any two persons can be connected through six intermediaries. It was first represented by Stanley Milgram's Small World Experiment in 1967. The average intermediaries between Americans trying to send a package to a target across an area of the Eastern United States was 6. Since this experiment, six degrees of separation (or less) can be concluded online. Markedly by an experiment using email in 2001 by Duncan Watts and an experiment using Facebook friendships by Backstrom et al. in 2011.
+
+This project will measure the distance between Wikipedia articles (using a subset of articles), utilizing the hyperlinks on an article as edges to others. Therefore, a graph can be created and the average degree of separation between the articles can be derived. Henceforth, the experiment will confirm six degrees of separation on a subset of Wikipedia data and illustrate the proximity of content on the Wikipedia dataset. This offers insight into the connectedness of the rest of Wikipedia or the Internet as a whole.
+
