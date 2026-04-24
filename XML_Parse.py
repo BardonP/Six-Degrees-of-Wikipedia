@@ -1,7 +1,7 @@
 from bs4 import BeautifulSoup
 import re
 
-test_set = "Test/test_set_final.xml"
+test_set = "subset_final.xml"
 output = "article_links.csv"
 
 #Open the XML file and parse it using BeautifulSoup
